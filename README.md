@@ -1,6 +1,6 @@
 # SPY-Analysis-DS220
 
-View Here: https://sawan18.github.io/SPY-Analysis-DS220-Project2/index.html
+View Here: https://sawan18.github.io/SPY-Analysis/index.html
 
 Project for Penn State's DS220 class
 
